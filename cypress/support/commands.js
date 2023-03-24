@@ -17,7 +17,6 @@ Cypress.Commands.add('registerUser', ()=>{
     cy.get('#secondpassword').type(Cypress.env('password'))
     cy.get('#submitbtn').click()
 })
-
 Cypress.Commands.add('demoIframe', ()=>{
     cy.visit('/Frames.html')
     /* O comando cy.iframe não é uma função nativa do cypress, precisei instalar uma biblioteca
@@ -34,7 +33,6 @@ Cypress.Commands.add('inputDate', ()=>{
     cy.get('#datepicker2').type(`${Cypress.env('birthDate')}`)
     cy.get('#datepicker2').should('have.value',`${Cypress.env('birthDate')}` )
 })
-
 Cypress.Commands.add('clickCenterSlider', ()=>{
     cy.visit('/Slider.html')
     /*O cypress por padão ele clica sempre no centro de um elemento,  

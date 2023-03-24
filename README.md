@@ -1,67 +1,43 @@
 Teste técnico cyber solutions
 
+OBS: Não foi possivel registrar um usuário na plataforma, pois o campo country não tinha nenhuma opção disponivel para marcar
+
+Não visei muito as asserções para não sair do escopo do teste.
+
+Pipeline de integração continua configurado.
 
 🚀 Começando
 
-
 Consulte Implantação para saber como implantar o projeto.
 
-📋 Pré-requisitos
-Requisitos obrigatorios 
--node v16.17.0
--
-
-Dar exemplos
 🔧 Instalação
 
+node > 12.0
 
-Diga como essa etapa será:
+Clone o repositorio
 
-Dar exemplos
-E repita:
-
-Até finalizar
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
+Instale todas as dependencias do projeto com o comando "npm install"
 
 ⚙️ Executando os testes
-Explicar como executar os testes automatizados para este sistema.
 
-🔩 Analise os testes de ponta a ponta
-Explique que eles verificam esses testes e porquê.
+Para executar o teste em interface grafica utilize no terminal: npx cypress open
 
-Dar exemplos
-⌨️ E testes de estilo de codificação
-Explique que eles verificam esses testes e porquê.
-
-Dar exemplos
-📦 Implantação
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+Para executar o teste no terminal utilize o comando: npx cypress run
 
 🛠️ Construído com
-Mencione as ferramentas que você usou para criar seu projeto
 
-Dropwizard - O framework web usado
-Maven - Gerente de Dependência
-ROME - Usada para gerar RSS
-🖇️ Colaborando
-Por favor, leia o COLABORACAO.md para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
+Node.js 16.17
 
-📌 Versão
-Nós usamos SemVer para controle de versão. Para as versões disponíveis, observe as tags neste repositório.
+Cypress 12.8.1
 
-✒️ Autores
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+Plugin cypress-iframe: "^1.0.1"
 
-Um desenvolvedor - Trabalho Inicial - umdesenvolvedor
-Fulano De Tal - Documentação - fulanodetal
-Você também pode ver a lista de todos os colaboradores que participaram deste projeto.
+✒️ Autor
+
+-Diego de Sousa Pereira
 
 📄 Licença
-Este projeto está sob a licença (sua licença) - veja o arquivo LICENSE.md para detalhes.
 
-🎁 Expressões de gratidão
-Conte a outras pessoas sobre este projeto 📢;
-Convide alguém da equipe para uma cerveja 🍺;
-Um agradecimento publicamente 🫂;
-etc.
-⌨️ com ❤️ por Armstrong Lohãns 😊
+Este projeto está sob a licença (MIT)
+
+⌨️ por Diego de Sousa Pereira 😊
