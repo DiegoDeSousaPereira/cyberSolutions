@@ -1,0 +1,15 @@
+{
+  "name": "testetecnico",
+  "version": "1.0.0",
+  "description": "Teste técnico para Cyber Solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Diego de Sousa Pereira",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.8.1",
+    "cypress-iframe": "^1.0.1"
+  }
+}
