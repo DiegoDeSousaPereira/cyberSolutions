@@ -10,6 +10,7 @@
   "license": "MIT",
   "devDependencies": {
     "cypress": "^12.8.1",
-    "cypress-iframe": "^1.0.1"
+    "cypress-iframe": "^1.0.1",
+    "cypress-plugin-steps": "^1.1.1"
   }
 }

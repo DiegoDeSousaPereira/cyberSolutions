@@ -18,6 +18,7 @@ Cypress.on('uncaught:exception', (err, runnable) => {
     return false
   })
 // Import commands.js using ES2015 syntax:
+import 'cypress-plugin-steps'
 import './commands'
 import 'cypress-iframe'
 
