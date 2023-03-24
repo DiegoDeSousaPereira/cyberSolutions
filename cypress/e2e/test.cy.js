@@ -1,5 +1,4 @@
 describe('teste Cyber Solutions', ()=>{
-    
     it('Registrando um usuário', ()=>{
         cy.registerUser()
     })
@@ -9,9 +8,7 @@ describe('teste Cyber Solutions', ()=>{
     it('inserindo a data de nascimento', ()=>{
         cy.inputDate()
     })
-
     it('Clicando no meio do slider', ()=>{
         cy.clickCenterSlider()
     })
-
 })  
