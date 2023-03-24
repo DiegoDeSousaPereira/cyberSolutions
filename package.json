@@ -4,7 +4,7 @@
   "description": "Teste técnico para Cyber Solutions",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress open"
+    "test": "npx cypress run --record --key 9b5bc7ca-19e9-4952-a63a-8ed5e16c5356"
   },
   "author": "Diego de Sousa Pereira",
   "license": "MIT",
