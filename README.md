@@ -8,8 +8,7 @@ Consulte Implantação para saber como implantar o projeto.
 
 📋 Pré-requisitos
 Requisitos obrigatorios 
--node v16.17.0
--
+
 
 Dar exemplos
 🔧 Instalação
@@ -60,8 +59,7 @@ Você também pode ver a lista de todos os colaboradores que participaram deste 
 Este projeto está sob a licença (sua licença) - veja o arquivo LICENSE.md para detalhes.
 
 🎁 Expressões de gratidão
-Conte a outras pessoas sobre este projeto 📢;
-Convide alguém da equipe para uma cerveja 🍺;
+
 Um agradecimento publicamente 🫂;
 etc.
-⌨️ com ❤️ por Armstrong Lohãns 😊
+⌨️ por Diego de Sousa Pereira 😊
